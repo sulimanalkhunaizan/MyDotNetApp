@@ -1,0 +1,14 @@
+C:\Users\khusu\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+C:\Users\khusu\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+C:\Users\khusu\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+C:\Users\khusu\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+C:\Users\khusu\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+C:\Users\khusu\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
